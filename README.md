@@ -1,5 +1,7 @@
 # js-async-worker
 
+A very simple node app for testing async/await.
+
 ## Running
 
 After cloning, just run:
