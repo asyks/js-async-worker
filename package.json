@@ -1,5 +1,5 @@
 {
-  "name": "js-async-test",
+  "name": "js-async-worker",
   "version": "1.0.0",
   "description": "Simple async client/server test project",
   "main": "index.js",
