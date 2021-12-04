@@ -1,7 +1,7 @@
 {
   "name": "js-async-worker",
   "version": "1.0.0",
-  "description": "Simple async client/server test project",
+  "description": "A very simple node app for testing async/await",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
